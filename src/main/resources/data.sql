@@ -1,0 +1,1 @@
+insert into STUDENT (firstName,lastName,email) values ('Hazco','HZC','hzc@gmail.com');
